@@ -1,4 +1,4 @@
-# Web-apps
+touch .nojekyll
 <!DOCTYPE html>
 <html lang="ru">
 <head>
