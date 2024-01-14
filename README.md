@@ -1,4 +1,4 @@
-touch .nojekyll
+.nojekyll
 <!DOCTYPE html>
 <html lang="ru">
 <head>
